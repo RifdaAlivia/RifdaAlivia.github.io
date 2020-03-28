@@ -1,0 +1,21 @@
+body{
+background-color:pink;
+}
+
+h1{text-align: left;
+color: maroon; outline-style: dotted;outline-color: white
+
+}
+
+p{
+	color: maroon
+}
+
+h2{
+	text-align: left;
+	color:maroon;
+}
+
+img{
+	border-radius: 120px
+}
